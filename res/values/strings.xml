@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Gratitude Journal</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="loginButton">login</string>
+    <string name="createAccountButton">create account</string>
+    <string name="grateful">What are you grateful for?</string>
+    <string name="affirmations">Daily Affirmations</string>
+    <string name="rules">Write down three things you are grateful for, and some daily affirmations to get you through the day!</string>
+    <string name="firstName">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="create_act">create account</string>
+    <string name="mainrules">"Welcome to your Gratitude Journal!"</string>
+</resources>
