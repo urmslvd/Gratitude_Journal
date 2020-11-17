@@ -5,6 +5,7 @@ Hope you enjoy it as much as I do!
 
 Below are some shots of what the app looks like!
 
-![A New Design - Made with PosterMyWall](https://user-images.githubusercontent.com/71047481/99450482-d5d89300-28ee-11eb-8910-2011c7e3f8c3.png)
+![A New Design - Made with PosterMyWall (1)](https://user-images.githubusercontent.com/71047481/99450905-6c0cb900-28ef-11eb-8f79-e431ef82aeb5.png)
+![A New Design - Made with PosterMyWall (2)](https://user-images.githubusercontent.com/71047481/99450913-6e6f1300-28ef-11eb-85a3-7dded7fbcd1d.png)
 
 
